@@ -1,0 +1,25 @@
+{
+  "name": "pubsub",
+  "version": "1.0.0",
+  "description": "publish/subscribe for JavaScript",
+  "main": "PubSub.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rxy8023/PubSubjs.git"
+  },
+  "keywords": [
+    "pubsub",
+    "javascript",
+    "Node",
+    "AMD"
+  ],
+  "author": "rxy8023",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rxy8023/PubSubjs/issues"
+  },
+  "homepage": "https://github.com/rxy8023/PubSubjs#readme"
+}
